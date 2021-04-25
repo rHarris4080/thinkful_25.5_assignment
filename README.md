@@ -1,7 +1,9 @@
 # thinkful_25.5_assignment
 
 25.5 Assignment - Rob Harris 4/24/21
+
 DBSCAN
+
 In this assignment, you'll continue working with the heart disease dataset from the UC Irvine Machine Learning Repository.
 
 Load the dataset from Thinkful's database. To connect to the database, use these credentials:
